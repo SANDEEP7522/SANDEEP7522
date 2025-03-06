@@ -1,3 +1,8 @@
+<div align="center">
+  <img  src="https://i.pinimg.com/originals/37/65/8d/37658d30d8b16a4401f3f94af1a2b292.gif"  />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Sahu</h1>
 <h3 align="center">I'm a skilled MERN stack developer with a strong focus on building modern, responsive, and high-performance web applications.</h3>
 
